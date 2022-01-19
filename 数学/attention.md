@@ -11,4 +11,5 @@
 
 - $当遇到\frac{x^2}{1+x}，要有意识的将其划为x-1+\frac{1}{x+1}$
 
-- 
+# 求导
+- $(arcsin\sqrt{x})'=\frac{\frac{1}{2}}{\sqrt{x}\cdot\sqrt{1-x}} \neq \frac{1}{\sqrt{1-x}}$ 
